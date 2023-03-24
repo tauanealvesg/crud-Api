@@ -1,7 +1,4 @@
 # crud-Api
 
-npm install express
-
-npm i axios
-
-npm i nodemon
+editar packed.json "scripts" :
+"start": "nodemon index.js",
