@@ -1,8 +1,9 @@
-# <H1 align="center">CRUD-API</h1>
+# <h1 align="center">CRUD-API</h1>
 
 
 # 🥇 OBJETIVOS
 ## O PROJETO DEVERÁ:
+
 
 ⇨ Utilizar o padrão MVC;
 
@@ -25,6 +26,7 @@
 ⇨ Utilização de async/await para operações no banco (DAO)
 
 ⇨ Ter o código fonte hospedado em um repositório no Github.
+
 
 ## INSTALANDO AS DEPENDÊNCIAS:
 
