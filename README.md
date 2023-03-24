@@ -3,8 +3,7 @@
 editar packed.json "scripts" :
 
  "scripts": {
-    "start": "nodemon index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon index.js"
   }
 
 npm install express
