@@ -44,3 +44,10 @@ editar packed.json "scripts" :
  "scripts": {
     "start": "nodemon index.js"
   }
+  
+  ## EXECUTANDO O PROJETO:
+  
+  Cd...nome da pasta
+  npm start...
+  
+  
