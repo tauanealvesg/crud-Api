@@ -35,6 +35,8 @@ npm i axios
 
 npm i nodemon
 
+## EDIÇÕES:
+
 editar packed.json "scripts" :
 
  "scripts": {
