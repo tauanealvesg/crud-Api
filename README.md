@@ -1,8 +1,8 @@
-# crud-Api
+# <H1 align="center">CRUD-API</h1>
 
 
-# OBJETIVOS
-## O projeto deverá obrigatoriamente:
+# 🥇 OBJETIVOS
+## O PROJETO DEVERÁ:
 
 ⇨ Utilizar o padrão MVC;
 
@@ -15,23 +15,28 @@
 ⇨ Utilizar o README.md do repositório para documentação, contendo informações como:
 
 ◼ Como instalar as dependências do projeto;
+
 ◼ Como executar o projeto;
+
 ◼ Quais são as rotas possíveis;
+
 ◼ Quaisquer outros pontos que você achar necessários;
 
 ⇨ Utilização de async/await para operações no banco (DAO)
 
 ⇨ Ter o código fonte hospedado em um repositório no Github.
 
+## INSTALANDO AS DEPENDÊNCIAS:
 
-editar packed.json "scripts" :
-
- "scripts": {
-    "start": "nodemon index.js"
-  }
 
 npm install express
 
 npm i axios
 
 npm i nodemon
+
+editar packed.json "scripts" :
+
+ "scripts": {
+    "start": "nodemon index.js"
+  }
