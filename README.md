@@ -30,12 +30,13 @@
 
 ## INSTALANDO AS DEPENDÊNCIAS:
 
+npm i 
 
-npm install express
-
-npm i axios
+npm i express
 
 npm i nodemon
+
+npm i cors
 
 ## EDIÇÕES:
 
