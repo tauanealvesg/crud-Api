@@ -30,6 +30,10 @@
 
 ## INSTALANDO AS DEPENDÊNCIAS:
 
+abra o terminal com "Ctrl"+"shift"+" ' " ou "Ctrl"+"j" 
+
+digite "cd frontend"
+
 npm i 
 
 npm i express
@@ -48,7 +52,6 @@ editar packed.json "scripts" :
   
   ## EXECUTANDO O PROJETO:
   
-  Cd...nome da pasta
   npm start...
   
   
